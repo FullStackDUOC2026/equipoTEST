@@ -2,7 +2,6 @@ package com.example.ms_equipoTEST.controller;
 
 import com.example.ms_equipoTEST.dto.EquipoRequestDTO;
 import com.example.ms_equipoTEST.dto.EquipoResponseDTO;
-import com.example.ms_equipoTEST.repository.EquipoRepository;
 import com.example.ms_equipoTEST.service.EquipoService;
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
